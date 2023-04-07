@@ -1,0 +1,29 @@
+body {
+  margin: 0 auto;
+  font-family: "Courier New", Courier, monospace;
+  max-width: 1000px;
+  background-color: lightseagreen;
+  }
+
+nav {
+  background-color: #aaa;
+  display: flex;
+  justify-content: flex-end;
+  padding: 5px 0;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  background: darkslateblue;
+  margin: 0;
+}
+
+nav li {
+  padding: 5px;
+}
+
+nav a {
+  color: white;
+  padding: 5px;
+}
